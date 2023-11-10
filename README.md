@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nnanana Kanyane Madisha</h1>
 <h3 align="center">I'm a passionate Aspiring front-end developer with experience in building web applications from South Africa.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nnananamadisha&label=Profile%20views&color=0e75b6&style=flat" alt="nnananamadisha" /> </p>
 
 - 🔭 I’m currently working on **Apple E-commerce site**
