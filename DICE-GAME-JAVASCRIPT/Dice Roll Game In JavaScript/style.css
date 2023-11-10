@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=EB+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,800&family=Inter:wght@200;300;400;500;600;700&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Playfair+Display:ital,wght@0,500;0,700;0,900;1,400;1,500;1,600;1,800;1,900&family=Poppins:wght@200;300;400;500;600;700;800&family=Reggae+One&display=swap');
+        
+
+
+        .container {
+            width: 70%;
+            margin: auto;
+            text-align: center;
+           
+        }
+
+        .dice {
+            text-align: center;
+            display: inline-block;
+            margin: 10px;
+        }
+
+        body {
+            margin: 0;
+            background-image: url(dice\ background\ image\ 3.jpg);
+        }
+
+        h1 {
+            margin: 30px;
+            font-family: 'Reggae One', cursive;
+            text-shadow: 5px 0 #c0ce58a8 ;
+            font-size: 4.5rem;
+            color:#cfdc99;
+            text-align: center;
+        }
+
+        p {
+            font-size: 2rem;
+            color: #ffffff ;
+            font-family: 'Reggae One', cursive;
+        }
+
+        img {
+            width: 100%;
+        }
+
+        .bottom {
+            padding-top: 30px;
+        }
+
+        .btn {
+            background: #accf6c;
+            font-family: 'Reggae One', cursive;
+            border-radius: 7px;
+            color: #110e0e;
+            font-size: 30px;
+            padding: 16px 25px 16px 25px;
+            text-decoration: none;
+        }
+
+        .butn:hover {
+            background: #232931;
+            text-decoration: none;
+        }
+
+        
+.even-roll {
+  transition: transform 1.5s ease-out;
+}
+.odd-roll {
+  transition: transform 1.25s ease-out;
+}
