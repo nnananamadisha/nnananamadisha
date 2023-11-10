@@ -1,22 +1,23 @@
 
-
 <h1 align="center">Hi 👋, I'm Nnanana Kanyane Madisha</h1>
-<h3 align="center">I'm a passionate Aspiring front-end developer with experience in building web applications from South Africa.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nnananamadisha&label=Profile%20views&color=0e75b6&style=flat" alt="nnananamadisha" /> </p>
+<h3 align="center">I'm Energic ,Passionate Aspiring Front-end Developer currently enrolled for Full-Stack development course at Melsoft Academy.Life-long learner who is Passionate about problem solving and Upskilling herself..</h3>
 
-- 🔭 I’m currently working on **Apple E-commerce site**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nnananamadisha&label=Profile%20views&color=0e75b6&style=flat" alt="nnananamadisha" /> </p>
 
 - 🌱 I’m currently learning **React.js and Redux.js**
 
-- 💬 Ask me about **HTML ,CSS and Javascript**
+- 👯 I’m looking to collaborate on **Frontend development websites**
+
+- 💬 Ask me about **HTML ,CSS and JavaScript**
 
 - 📫 How to reach me **nnananamadisha99@gmail.com**
 
-- ⚡ Fun fact **I am an abstract art lover**
+- ⚡ Fun fact **I love Painting and Abstract Art**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nnanana madisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nnanana madisha" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/nnananamadisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nnananamadisha" height="30" width="40" /></a>
 <a href="https://fb.com/nani madisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nani madisha" height="30" width="40" /></a>
 <a href="https://instagram.com/nnanana madisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nnanana madisha" height="30" width="40" /></a>
 </p>
