@@ -1,17 +1,23 @@
 
-<h1 align="center">Hi 👋, I'm Nnanana Kanyane Madisha</h1>
+<h1 align="center"> 🚀 Hello World!👋 I'm Nnanana Kanyane Madisha , Financier-turned-Coder here! 💼💻</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nnananamadisha&label=Profile%20views&color=0e75b6&style=flat" alt="nnananamadisha" /> </p>
 
+- 💻 I'm currently working on **Netflix clone**
+  
 - 🌱 I’m currently learning **node.js**
 
 - 👯 I’m looking to collaborate on **Frontend development websites**
 
-- 💬 Ask me about **HTML ,CSS and JavaScript**
+- 💬 Ask me about **Technology,Finance and Personal Development**
 
 - 📫 How to reach me **nnananamadisha99@gmail.com**
 
 - ⚡ Fun fact **I love Painting and Abstract Art**
+
+## About Me
+
+Numbers whisperer turned code maestro, I'm on a wild ride at Melsoft Academy—conquering HTML, CSS, Bootstrap, JavaScript, React & Redux, NodeJS, and a sprinkle of magic. With an accounting wizard hat, I blend financial prowess with coding voodoo. 🧙‍♂️ In my Educator Assistant days, I perfected teamwork, nailed communication, and made problem-solving my playground. 🚀 As a self-propelled learning machine, I'm geared up to code, create, and conquer. Let's turn bytes into bucks and make tech dance to the financial beat! 📈💰✨
 
 
 
@@ -32,6 +38,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=nnananamadisha&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nnananamadisha&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
