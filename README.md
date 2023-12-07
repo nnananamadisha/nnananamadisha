@@ -5,7 +5,7 @@
 
 - 💻 I'm currently working on **Netflix clone**
   
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **node.js And Express**
 
 - 👯 I’m looking to collaborate on **Frontend development websites**
 
